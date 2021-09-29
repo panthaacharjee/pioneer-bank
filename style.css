@@ -1,0 +1,46 @@
+#login-form{
+    display: block;
+    margin : 150px auto;
+    background-color: beige;
+    padding: 80px 120px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 35px 5px rgb(161, 161, 161);
+}
+.box{
+    height: 140px;
+    border-radius: 5px;
+    background-color: red;
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+    text-indent: 50px;
+}
+#main label{
+    font-size: 20px;
+}
+#deposit{
+    background-color: blueviolet;
+}
+#withdraw{
+    background-color: chocolate;
+}
+#balance{
+    background-color: darkblue;
+}
+.transection{
+    margin-top: 80px;
+}
+.transection h2{
+    margin-bottom: 10px;
+}
+.transection .form-group{
+    height: 140px;
+    padding: 40px 20px;
+    border: 1px solid rgb(153, 152, 152);
+    border-radius: 5px;
+}
+.transection input{
+    margin-bottom: 10px;
+}
